@@ -1,4 +1,4 @@
-<div class="navbar" style="position: relative;  display: inline-block;">
+<div class="navbar-container">
     <?php
         include_once "logo.html";
         include_once "menu.html";
