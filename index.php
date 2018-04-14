@@ -12,8 +12,8 @@
     <?php
         include_once './src/component/topheader.html';
         include_once './src/component/navbar.php';
-
-        include_once './src/component/about.html';
+        include_once './src/component/header.html';
+        //include_once './src/component/about.html';
     ?>
 </body>
 </html>

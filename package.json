@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "sass ./src/sass/top-header/top-header-mobile.sass ./src/css/main.css"
+    "build": "sass ./src/sass/main.sass ./src/css/main.css"
   },
   "author": "korn",
   "license": "ISC"
