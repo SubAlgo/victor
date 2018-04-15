@@ -57,6 +57,40 @@ body {
   }
 }
 /*NAVBAR*/
+.navbar-container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  background-color: green;
+}
+
+.navbar-logo-container {
+  display: inline;
+  margin-left: 10px;
+  width: 500px;
+  background-color: pink;
+}
+
+.navbar-menu-container {
+  display: inline;
+  margin-left: 10px;
+  width: 100%;
+  background-color: yellow;
+}
+
+.navbar-logo {
+  width: 300px;
+}
+
+.navbar-menu {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
 /*HEADER*/
 .header {
   width: 100%;
